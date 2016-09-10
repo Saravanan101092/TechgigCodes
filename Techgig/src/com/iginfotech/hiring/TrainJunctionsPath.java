@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class CandidateCode {
+public class TrainJunctionsPath {
 
 	public static String SOURCE="";
 	public static String DESTINATION="";
